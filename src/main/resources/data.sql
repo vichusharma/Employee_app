@@ -1,0 +1,4 @@
+-- insert into employee values(100,"Alex",1,"IT","alex@gmail.com");
+-- insert into employee values(200,"Beth",2,"Marketing","beth@gmail.com");
+-- insert into employee values(300,"Lewis",3,"Finance","lewis@gmail.com");
+-- insert into employee values(400,"Mathews",3,"Finance","mathews@gmail.com");
